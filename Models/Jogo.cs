@@ -24,7 +24,7 @@ public class Jogo
 
     [BsonElement("preco")]
     [BsonRepresentation(BsonType.Decimal128)]
-    [Range(typeof(decimal), "0.01", "999999.99",
+    [Range(typeof(decimal), "0.01", "999999.99", ParseLimitsInInvariantCulture = true,
         ErrorMessage = "O preço deve ser maior que zero.")]
     public decimal Preco { get; set; }
 

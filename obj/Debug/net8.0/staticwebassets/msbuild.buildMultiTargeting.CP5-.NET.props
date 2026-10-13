@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CP5-.NET.props" />
+</Project>

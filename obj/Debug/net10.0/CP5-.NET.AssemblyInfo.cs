@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP5-.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b44d4971e2376ed71d5c13be04e53f3aec05c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP5-.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP5-.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
